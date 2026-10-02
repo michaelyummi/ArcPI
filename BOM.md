@@ -12,10 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Raspberry PI pico 2](https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136?src=raspberrypi) | main computing system for the | 1 | $6.12 | $6.12 | [Digi key](https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136?src=raspberrypi) |
 | [Arcade Joystick Button Board](https://retroarcadecrafts.com/products/rac-c500-pico-zero-delay-usb-encoder-kit-pc-arcade-joystick-button-board-cable-5pin-4-8mm?pr_prod_strat=e5_desc&pr_rec_id=27415772f&pr_rec_pid=7290941440023&pr_ref_pid=6885857165335&pr_seq=uniform) | connects the buttons and joystick, via the micro controller, to the pico for input. | 1 | $19.99 | $19.99 | [Retro Arcade Crafts](https://retroarcadecrafts.com/products/rac-c500-pico-zero-delay-usb-encoder-kit-pc-arcade-joystick-button-board-cable-5pin-4-8mm?pr_prod_strat=e5_desc&pr_rec_id=27415772f&pr_rec_pid=7290941440023&pr_ref_pid=6885857165335&pr_seq=uniform) |
-| **Parts subtotal** | — | — | — | **$26.11** | — |
+| **Parts subtotal** | — | — | — | **$19.99** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.11** | — |
+| **Total** | — | — | — | **$19.99** | — |
 
-$38.89 left of the tier's funding.
+$45.01 left of the tier's funding.
